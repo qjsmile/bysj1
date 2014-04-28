@@ -1,0 +1,3 @@
+ImgPrePro用来对样本进行批量处理，处理为64 * 64 的灰度图像
+test7用来生成分类器hogclassfifier1 (MySvm类还没改出来，因为一直改不对，为了运行起来，又改回来了)
+Graph 利用分类器hogclassfifier1检测提取
